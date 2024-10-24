@@ -7,5 +7,3 @@ Projeto de João Lucas.
 Link do vídeo explicativo do código:
 https://youtu.be/EYNPn0oc2Xs
 
-Descobri que meu microfone quebrou após o upload do vídeo, infelizmente não tenho outro método de gravar sem ser pelo computador, agora sem microfone, peço perdão ao professor e peço misericórdia pela minha alma. S2
-
